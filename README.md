@@ -5,4 +5,5 @@
 - This dataset comes from a telecommunications company and contains user information, including demographic details and churn-related data. By studying this dataset, we can uncover insights to guide churn reduction efforts and improve customer retention strategies.
 
 ### 2. Data Dictionary
+![image](https://github.com/user-attachments/assets/9f0e31a6-9806-4e1d-88a9-a33b40775960)
 
