@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/821502b2-d5cd-467e-8c4b-ce8041e80724)# Churn User Analysis_Power BI
+# Churn User Analysis_Power BI
 ## I/ Introduction
 ### 1. Dataset
 - User churn occurs when customers stop using a product or service, which can negatively impact business performance. Analyzing churn helps companies identify patterns and reasons behind customer disengagement, enabling them to create strategies to boost retention.
